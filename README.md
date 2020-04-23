@@ -2,6 +2,8 @@
 
 This project is an exercise to use turtlesim in ROS. The aim of the project is drawing concentric circles. Your needs are explained to run the project. 
 
+![alt text] (https://github.com/benesatay/TurtleConcentricCircles/blob/master/outputImage.jpeg)
+
 If you have ROS Environment follow those steps:
 
 1. You have to make executable the code. 
